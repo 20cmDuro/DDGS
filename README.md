@@ -1,6 +1,6 @@
 # DDGS
 
-It will automatically create DM Groups in loop.
+It will automatically create DM Groups in a loop.
 
 ## Dependencies
 
